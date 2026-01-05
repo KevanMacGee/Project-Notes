@@ -1,3 +1,5 @@
+![Project Notes Screenshot](Screenshot%202026-01-04%20235331.png)
+
 Project status: It's just about finished except for the following:
 * Done ~~Need to determine if criteria for it to accept a URL is good enough or needs to be fine tuned. (Especially local files.)~~
 * Final security auditing.
