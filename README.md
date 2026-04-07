@@ -12,7 +12,7 @@ This is a very basic tool to replace Notepad .txt notes on projects. When I work
 
 It's important to note that this is a very basic "duct tape engineering" level tool, not a really replacement for something like Notion or Evernote. It's a product of a combination of vibe coding, bouncing the code off other models for refactoring and manual review and adjustments.
 
-This is technically a basic web app, but it is designed to be used locally only. Also, think of this as a document rather than a web app. You will use a different instance of this for each project you are using it for. It isn't intended to keep track of multiple projects in the same instance.
+This is technically a basic web app, but it is designed to be used locally only. Also, I think of this as a document rather than a web app. You will use a different instance of this for each project you are using it for. It isn't intended to keep track of multiple projects in the same instance.
 
 ### What this project is:
 * It's a hacky little rudimentary tool to organize ToDos and relevant links when working on a project.
