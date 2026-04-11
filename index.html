@@ -496,7 +496,7 @@
               <h5 class="mb-1 url-title">
                 <a href="${url}" target="_blank" rel="noopener noreferrer">${displayUrl}</a>
               </h5>
-              <button class="delete-url text-danger" style="background: none; border: none; font-size: 1rem; cursor: pointer; padding: 0 5px;">×</button>
+              <button class="delete-url text-danger" style="background: none; border: none; font-size: 1rem; cursor: pointer; padding: 0 5px;">x</button>
             </div>
             ${description ? `<p class="mb-1 url-description">${description}</p>` : ""}
           `;
@@ -575,7 +575,7 @@
         taskCard.innerHTML = `
           <div class="d-flex justify-content-between align-items-start">
             <h5 class="card-title">${task.title}</h5>
-            <button class="delete-task" data-id="${task.id}" data-column="${column}">×</button>
+            <button class="delete-task" data-id="${task.id}" data-column="${column}">x</button>
           </div>
           <p class="card-text">${task.description || ""}</p>
         `;
